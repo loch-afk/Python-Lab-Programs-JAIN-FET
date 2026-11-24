@@ -6,5 +6,5 @@ class Student:
         print(self.name)
  
  
-s1 = Student("Ojas")
+s1 = Student("lochana")
 s1.hi()
